@@ -1,0 +1,3 @@
+[submodule "asdf-plugin-repo"]
+	path = asdf-plugin-repo
+	url = https://github.com/asdf-vm/asdf-plugins.git
